@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Second-Hand Car Price Prediction System repository! This project is a machine learning-driven approach to predict second-hand car prices based on user-provided details. Utilizing regression analysis and a powerful machine learning model, this model aims to provide accurate estimates for informed decision-making in the second-hand car market.
+Welcome to the Second-Hand Car Price Prediction System repository! This project is a machine learning-driven approach to predict second-hand car prices based on user-provided details. Utilizing regression analysis this model aims to provide accurate estimates for informed decision-making in the second-hand car market.
 
 ## Key Features
 
